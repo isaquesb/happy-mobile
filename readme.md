@@ -11,7 +11,7 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=f7931e&labelColor=121214" alt="License">
 
-  <img src="https://img.shields.io/github/stars/isaquesb/happy-web?label=stars&message=Start&color=f7931e&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/isaquesb/happy-mobile?label=stars&message=Start&color=f7931e&labelColor=121214" alt="Stars">
 </p>
 
 <br>
